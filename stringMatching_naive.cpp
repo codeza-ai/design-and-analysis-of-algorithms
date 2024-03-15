@@ -1,3 +1,4 @@
+//The worst case complexity of the Naive algorithm is O(m(n-m+1)). The time complexity of the KMP algorithm is O(n+m) in the worst case. 
 #include <bits/stdc++.h>
 using namespace std;
 
